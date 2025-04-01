@@ -32,6 +32,9 @@ seamless user experience across all devices.
 
 
 
+
+
+
 Web-Cam Email Alert System (Paper)(Check out my Github Repository for project implementation and source code)
 
 ( OpenCV, Machine Learning, Python )
@@ -44,6 +47,10 @@ objects to customers within 2 seconds of detection.
 
 • Optimized system efficiency, reducing false positives by 30% and enhancing
 reliability for 24/7 surveillance applications.
+
+
+
+
 
 
 
