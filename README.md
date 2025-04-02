@@ -12,6 +12,25 @@ PROGRAMING LANGUAGES : Python, Java, SQL, Java Script,HTML,CSS
 SKILLS: Data Structures and Algorithms, AI, Machine Learning, Computer Vision(OpenCV), DBMS, Object Oriented Programming(OOP),React.js,Next.js,Computer Networking,Operating Systems.
 
 ## 🌟 Featured Projects:
+
+Web3 Blockchain App
+A decentralized Web3 app enabling seamless Ethereum blockchain interaction using MetaMask, React, and Solidity.
+
+Key Features:
+
+MetaMask authentication for secure wallet connection.
+Smart contract execution via Solidity.
+Blockchain transactions and real-time data fetching.
+Tech Stack:
+
+Frontend: React, JavaScript
+Blockchain: Solidity, Ethereum
+Wallet: MetaMask
+Tools: Hardhat, Web3.js, Ethers.js
+
+
+
+
 Built my own AI Powered SAAS - Media Managing Platform(Check out my Github Repository for project implementation and source code)
 
 ( Next.js, Prisma ORM, PostgreSQL, Clerk, Cloudinary, Vercel, JavaScript,
