@@ -13,26 +13,22 @@ SKILLS: Data Structures and Algorithms, AI, Machine Learning, Computer Vision(Op
 
 ## 🌟 Featured Projects:
 
-#WEB3 BLOCKCHAIN APP:
+WEB3 BLOCKCHAIN APP:
 
-A decentralized Web3 app enabling seamless Ethereum blockchain interaction using MetaMask, React, and Solidity.
+. Built with: React, Solidity, JavaScript, and MetaMask.
 
-Key Features:
+. Functionality: Wallet authentication, smart contract execution, and real-time blockchain data fetching.
 
-MetaMask authentication for secure wallet connection.
-Smart contract execution via Solidity.
-Blockchain transactions and real-time data fetching.
-Tech Stack:
+. Transactions: Send and receive Ethereum securely.
 
-Frontend: React, JavaScript
-Blockchain: Solidity, Ethereum
-Wallet: MetaMask
-Tools: Hardhat, Web3.js, Ethers.js
+. Development Tools: Hardhat, Web3.js, and Ethers.js.
+
+. Purpose: Enable seamless interaction with the Ethereum blockchain.
 
 
 
 
-#BUILT MY OWN AI POWERED SAAS - Media Managing Platform(Check out my Github Repository for project implementation and source code)
+BUILT MY OWN AI POWERED SAAS - Media Managing Platform(Check out my Github Repository for project implementation and source code)
 
 ( Next.js, Prisma ORM, PostgreSQL, Clerk, Cloudinary, Vercel, JavaScript,
 TypeScript, Tailwind CSS)
@@ -55,7 +51,7 @@ seamless user experience across all devices.
 
 
 
-# WEB CAM EMAIL ALERT SYSTEM (Paper)(Check out my Github Repository for project implementation and source code)
+WEB CAM EMAIL ALERT SYSTEM (Paper)(Check out my Github Repository for project implementation and source code)
 
 ( OpenCV, Machine Learning, Python )
 
