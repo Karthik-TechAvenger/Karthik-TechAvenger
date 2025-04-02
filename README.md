@@ -2,14 +2,14 @@
 
 ## 🚀 About Me:
 A Prefinal-year Bachelors of Technology Student specializing in Computer Science, with a strong foundation
-in Full Stack Development,Machine learning and Data Structures Algorithms(DSA) by building highly scalable
+in Full Stack Development,Machine learning and Data Structures Algorithms(DSA) and Block Chain Technology by building highly scalable
 and User-friendly software solutions. Eager to gain real-world experience by applying my technical expertise
 and problem-solving skills. Excited to contribute to impactful projects and showcase my abilities through
 innovative solutions and hands-on projects.
 
 ## 🛠️ My Tech Stack:
-PROGRAMING LANGUAGES : Python, Java, SQL, Java Script,HTML,CSS
-SKILLS: Data Structures and Algorithms, AI, Machine Learning, Computer Vision(OpenCV), DBMS, Object Oriented Programming(OOP),React.js,Next.js,Computer Networking,Operating Systems.
+PROGRAMING LANGUAGES : Python, Java, SQL, Java Script,HTML,CSS,Solidity
+SKILLS: Data Structures and Algorithms, Block Chain, AI, Machine Learning, Computer Vision(OpenCV), DBMS, Object Oriented Programming(OOP),React.js,Next.js,Computer Networking,Operating Systems.
 
 ## 🌟 Featured Projects:
 
