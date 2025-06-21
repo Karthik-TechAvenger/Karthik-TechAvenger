@@ -1,15 +1,22 @@
 # Hi, I'm KARTHIK KULKARNI 👋
 
 ## 🚀 About Me:
+
 A Prefinal-year Bachelors of Technology Student specializing in Computer Science, with a strong foundation
 in Full Stack Development,Machine learning and Data Structures Algorithms(DSA) and Block Chain Technology by building highly scalable
 and User-friendly software solutions. Eager to gain real-world experience by applying my technical expertise
 and problem-solving skills. Excited to contribute to impactful projects and showcase my abilities through
 innovative solutions and hands-on projects.
 
-## 🛠️ My Tech Stack:
-PROGRAMING LANGUAGES : Python, Java, SQL, Java Script,HTML,CSS,Solidity
-SKILLS: Data Structures and Algorithms, Block Chain, AI, Machine Learning, Computer Vision(OpenCV), DBMS, Object Oriented Programming(OOP),React.js,Next.js,Computer Networking,Operating Systems.
+## SKILLS
+
+Languages: Python, Java, JavaScript, SQL, HTML/CSS, TypeScript
+
+Tools & Frameworks: React.js, Next.js, Docker, AWS Cloud, MongoDB, Prisma, Clerk, Vercel, Express.js, Node.js
+
+Concepts: Data Structures and Algorithms, Object Oriented Programming (OOPS), REST APIs, DBMS, Machine Learning, Operating Systems, Computer Networks, App Development Problem Solving, Communication Skills
+
+Developer Tools: GitHub, Postman, VS Code
 
 ## 🌟 Featured Projects:
 
