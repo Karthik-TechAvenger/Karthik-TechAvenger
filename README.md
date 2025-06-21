@@ -20,7 +20,7 @@ Developer Tools: GitHub, Postman, VS Code
 
 ## 🌟 Featured Projects:
 
-AI-Powered LMS Teaching SaaS | Next.js, React.js, Supabase, Stripe, Vapi AI - (Deployment Link)
+1) AI-Powered LMS Teaching SaaS | Next.js, React.js, Supabase, Stripe, Vapi AI - (Deployment Link)
 
 • Built a voice-enabled LMS platform, reducing onboarding time by 30% using Vapi AI and Supabase.
 
@@ -42,7 +42,7 @@ AI-Powered LMS Teaching SaaS | Next.js, React.js, Supabase, Stripe, Vapi AI - (D
 
 
 
-Subscription Management System API | MongoDB, Express.js, Node.js - GitHub
+2) Subscription Management System API | MongoDB, Express.js, Node.js - GitHub
 
 • Developed and deployed a secure, production-grade API using Node.js, Express, and MongoDB, enabling seamless management of user subscriptions with JWT authentication.
 
@@ -61,7 +61,7 @@ Subscription Management System API | MongoDB, Express.js, Node.js - GitHub
 
 
 
-GOOGLE SOLUTIONS CHALLENGE - BUILT FOR DISNEY
+3) GOOGLE SOLUTIONS CHALLENGE - BUILT FOR DISNEY
 
 AI-Driven IP Protection for Streaming Content
 
