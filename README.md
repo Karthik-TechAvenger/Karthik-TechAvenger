@@ -13,37 +13,17 @@ SKILLS: Data Structures and Algorithms, Block Chain, AI, Machine Learning, Compu
 
 ## 🌟 Featured Projects:
 
-WEB3 BLOCKCHAIN APP:
+AI-Powered LMS Teaching SaaS | Next.js, React.js, Supabase, Stripe, Vapi AI - (Deployment Link)
 
-. Built with: React, Solidity, JavaScript, and MetaMask.
+• Built a voice-enabled LMS platform, reducing onboarding time by 30% using Vapi AI and Supabase.
 
-. Functionality: Wallet authentication, smart contract execution, and real-time blockchain data fetching.
+• Integrated Clerk and Stripe for secure auth and billing, managing 100% of user subscriptions.
 
-. Transactions: Send and receive Ethereum securely.
+• Designed a responsive UI with Tailwind CSS, boosting engagement by 40%.
 
-. Development Tools: Hardhat, Web3.js, and Ethers.js.
+• Added tutor creation, bookmarks, and session history, increasing retention by 25%.
 
-. Purpose: Enable seamless interaction with the Ethereum blockchain.
-
-
-
-
-BUILT MY OWN AI POWERED SAAS - Media Managing Platform(Check out my Github Repository for project implementation and source code)
-
-( Next.js, Prisma ORM, PostgreSQL, Clerk, Cloudinary, Vercel, JavaScript,
-TypeScript, Tailwind CSS)
-
-• Developed a SaaS platform integrating AI-powered media management using
-Cloudinary, improving media processing efficiency by 40%.
-
-• Implemented secure authentication with Clerk, reducing unauthorized access
-attempts by 95%, and optimized media uploads to cut processing time by 30%.
-
-• Leveraged AI for automated image tagging, video processing, and content
-analysis, increasing content categorization accuracy by 90%.
-
-• Built a responsive UI with Next.js, enhancing load speeds by 50% and ensuring a
-seamless user experience across all devices.
+• Modular codebase improved development speed by 35%.
 
 
 
@@ -51,18 +31,21 @@ seamless user experience across all devices.
 
 
 
-WEB CAM EMAIL ALERT SYSTEM (Paper)(Check out my Github Repository for project implementation and source code)
 
-( OpenCV, Machine Learning, Python )
 
-• Developed a real-time object detection system using OpenCV and machine
-learning, achieving 95% accuracy in detecting motion through a webcam.
 
-• Integrated automated email alerts, capturing and sending images of detected
-objects to customers within 2 seconds of detection.
 
-• Optimized system efficiency, reducing false positives by 30% and enhancing
-reliability for 24/7 surveillance applications.
+Subscription Management System API | MongoDB, Express.js, Node.js - GitHub
+
+• Developed and deployed a secure, production-grade API using Node.js, Express, and MongoDB, enabling seamless management of user subscriptions with JWT authentication.
+
+• Integrated rate limiting and bot protection via Arcjet, reducing unauthorized traffic by 90% and improving API reliability under high load.
+
+• Automated email workflows using Upstash, increasing user retention and engagement through timely reminders and alerts.
+
+
+
+
 
 
 
@@ -94,7 +77,7 @@ efficiency by 30%.
 - Continuosly evolving with latest technologies like Block Chain to further deepen my knowledge and explore new technologies.
 
 ## 📫 Connect With Me:
-- LinkedIn: http://linkedin.com/in/karthik-kulkarni-88b2202bb
+- LinkedIn: https://www.linkedin.com/in/karthik-kulkarni9/
 
 
 
